@@ -24,7 +24,7 @@
 
 <!-- ================= ABOUT ================= -->
 ## 🚀 About Me
-- 🎓 Computer Science student at HCMUS
+- 🎓 Information Technology student at HCMUS
 - 💻 Focused on **Backend Development** and **Data Engineering**
 - 🧠 Interested in **scalable systems & data-driven applications**
 - 🎯 Goal: Data Engineer(primary) / Backend Engineer
